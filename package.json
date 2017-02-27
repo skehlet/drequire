@@ -1,0 +1,15 @@
+{
+  "name": "frequire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "delayed-require.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
